@@ -1,0 +1,20 @@
+[
+    {
+        "nomeProduto": "Apollo Running Short",
+        "tamanho": "32",
+        "cor": "Black",
+        "quantidade": 3
+    },
+    {
+        "nomeProduto": "Aether Gym Pant",
+        "tamanho": "36",
+        "cor": "Brown",
+        "quantidade": 4
+    },
+    {
+        "nomeProduto": "Abominable Hoodie",
+        "tamanho": "S",
+        "cor": "Blue",
+        "quantidade": 5
+    }
+]
